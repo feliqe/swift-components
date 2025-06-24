@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		C961F3E62E07C0BD005554E6 /* SDWebImageSwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = C961F3E52E07C0BD005554E6 /* SDWebImageSwiftUI */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		C961F3A22E070D61005554E6 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -52,6 +56,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C961F3E62E07C0BD005554E6 /* SDWebImageSwiftUI in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -112,6 +117,7 @@
 			);
 			name = "swift-ui-components";
 			packageProductDependencies = (
+				C961F3E52E07C0BD005554E6 /* SDWebImageSwiftUI */,
 			);
 			productName = "swift-ui-components";
 			productReference = C961F3922E070D5E005554E6 /* swift-ui-components.app */;
@@ -195,6 +201,9 @@
 			);
 			mainGroup = C961F3892E070D5E005554E6;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				C961F3E42E07C0BD005554E6 /* XCRemoteSwiftPackageReference "SDWebImageSwiftUI" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = C961F3932E070D5E005554E6 /* Products */;
 			projectDirPath = "";
@@ -558,6 +567,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		C961F3E42E07C0BD005554E6 /* XCRemoteSwiftPackageReference "SDWebImageSwiftUI" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SDWebImage/SDWebImageSwiftUI";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 3.1.3;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		C961F3E52E07C0BD005554E6 /* SDWebImageSwiftUI */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = C961F3E42E07C0BD005554E6 /* XCRemoteSwiftPackageReference "SDWebImageSwiftUI" */;
+			productName = SDWebImageSwiftUI;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = C961F38A2E070D5E005554E6 /* Project object */;
 }
