@@ -29,7 +29,9 @@ Clasifica el resultado en categorías:
 - Sobrepeso
 - Obesidad
 
-<img width="324" alt="Captura de pantalla 2025-06-24 a las 8 09 19 p m" src="https://github.com/user-attachments/assets/0a854dec-a450-449a-96a2-a073870525dd" />
+<img width="371" alt="Captura de pantalla 2025-06-28 a las 12 14 20 p m" src="https://github.com/user-attachments/assets/16384810-966b-402e-9909-c55c96c55542" />
+<img width="371" alt="Captura de pantalla 2025-06-28 a las 12 14 00 p m" src="https://github.com/user-attachments/assets/698e4c69-e8f1-4859-a017-f6d069ca26b0" />
+
 
 
 ## Proyecto 2: Buscador de Héroes (API JSON)
@@ -53,7 +55,9 @@ Funcionalidades:
 - Listado organizado de ubicaciones
 - Búsqueda y filtrado de lugares
 
-<img width="327" alt="Captura de pantalla 2025-06-24 a las 8 10 09 p m" src="https://github.com/user-attachments/assets/d20363f1-bfe6-447c-b0f3-20afd1460c55" />
+<img width="366" alt="Captura de pantalla 2025-06-28 a las 12 18 04 p m" src="https://github.com/user-attachments/assets/649209cc-55a5-40b0-a185-f2393d20820e" />
+<img width="369" alt="Captura de pantalla 2025-06-28 a las 12 17 51 p m" src="https://github.com/user-attachments/assets/8a95efbd-2a88-47a0-a0b8-9e97a4f090f6" />
+
 
 ## Instalación y Uso
 
